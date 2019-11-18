@@ -4,12 +4,12 @@ using System.Text;
 
 namespace ClaseBubleSort
 {
-    class SoccerTeams
+    class Team
     {
         readonly private string name;
         readonly private int points;
 
-        public SoccerTeams(string name, int points)
+        public Team(string name, int points)
         {
             this.name = name;
             this.points = points;

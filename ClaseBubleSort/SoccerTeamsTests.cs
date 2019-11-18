@@ -10,12 +10,10 @@ namespace ClaseBubleSort
         [Fact]
         public void TeamRanking()
         {
-            SoccerTeams[] teamRank = new SoccerTeams[5];
-            teamRank[0] = new SoccerTeams("team1", 30);
-            teamRank[1] = new SoccerTeams("team2", 28);
-            teamRank[2] = new SoccerTeams("team3", 27);
-            teamRank[3] = new SoccerTeams("team4", 20);
-            teamRank[4] = new SoccerTeams("team5", 18);
+            Ranking ranking = new Ranking();
+            ranking.Add(new Team("a", 30));
+
+            Assert.Equal(1, ranking.Position("a"));
         }
     }
 }

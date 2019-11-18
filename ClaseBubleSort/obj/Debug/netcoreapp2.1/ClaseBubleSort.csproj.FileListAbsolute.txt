@@ -1,0 +1,14 @@
+C:\Users\My\Source\Repos\Clase\ClaseBubleSort\obj\Debug\netcoreapp2.1\ClaseBubleSort.csprojAssemblyReference.cache
+C:\Users\My\Source\Repos\Clase\ClaseBubleSort\obj\Debug\netcoreapp2.1\ClaseBubleSort.csproj.CoreCompileInputs.cache
+C:\Users\My\Source\Repos\Clase\ClaseBubleSort\obj\Debug\netcoreapp2.1\ClaseBubleSort.AssemblyInfoInputs.cache
+C:\Users\My\Source\Repos\Clase\ClaseBubleSort\obj\Debug\netcoreapp2.1\ClaseBubleSort.AssemblyInfo.cs
+C:\Users\My\source\repos\Clase\ClaseBubleSort\bin\Debug\netcoreapp2.1\ClaseBubleSort.deps.json
+C:\Users\My\source\repos\Clase\ClaseBubleSort\bin\Debug\netcoreapp2.1\ClaseBubleSort.dll
+C:\Users\My\source\repos\Clase\ClaseBubleSort\bin\Debug\netcoreapp2.1\ClaseBubleSort.runtimeconfig.json
+C:\Users\My\source\repos\Clase\ClaseBubleSort\bin\Debug\netcoreapp2.1\ClaseBubleSort.runtimeconfig.dev.json
+C:\Users\My\source\repos\Clase\ClaseBubleSort\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\My\source\repos\Clase\ClaseBubleSort\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\My\source\repos\Clase\ClaseBubleSort\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\My\source\repos\Clase\ClaseBubleSort\bin\Debug\netcoreapp2.1\ClaseBubleSort.pdb
+C:\Users\My\source\repos\Clase\ClaseBubleSort\obj\Debug\netcoreapp2.1\ClaseBubleSort.dll
+C:\Users\My\source\repos\Clase\ClaseBubleSort\obj\Debug\netcoreapp2.1\ClaseBubleSort.pdb

@@ -2,23 +2,19 @@
 
 namespace ClaseBubleSort
 {
-    class SoccerTeams
+    class SoccerTeamsRanking
     {
-        private string Name;
-        private int Points;
+        private string name;
+        private int points;
 
-        public SoccerTeams(string name, int points)
+        public SoccerTeamsRanking(string name, int points)
         {
-            this.Name = name;
-            this.Points = points;
+            this.name = name;
+            this.points = points;
         }
     }
 
     class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
     }
 }
